@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398326233194",
+    "project_id": "thegarments-365d0",
+    "storage_bucket": "thegarments-365d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398326233194:android:e2f319daf685707d4fb213",
+        "android_client_info": {
+          "package_name": "com.example.thegarments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_rXtmgabad6VI4gkxCIXDbR-1yHhmopw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
